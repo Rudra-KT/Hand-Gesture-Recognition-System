@@ -32,4 +32,11 @@ The performance metrics for the model are as follows:
 ```
  macro avg       0.92      0.77      0.80      1436 
  weighted avg    0.91      0.90      0.89      1436 
+```
+
+# DEMO RUN
+![image](https://github.com/Rudra-KT/Hand-Gesture-Recognition-System/assets/96310018/dc2651d9-2e57-4bea-84ba-fa6a87beb9d8)
+
+
+
 
